@@ -1,2 +1,2 @@
-# INFORMATIKADEZE
-gadosti
+# ДЗ ПО ИНФОРМАТИКЕ
+:(
