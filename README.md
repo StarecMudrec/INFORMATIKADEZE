@@ -1,0 +1,2 @@
+# INFORMATIKADEZE
+gadosti
